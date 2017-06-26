@@ -9,9 +9,7 @@ cd repo.git
 
 Copy and paste the script, replacing the following variables based on the information you gathered:
 
-    OLD_EMAIL
-    CORRECT_NAME
-    CORRECT_EMAIL
+ 
 
 #!/bin/sh
 
@@ -31,8 +29,7 @@ then
 fi
 
 
-Press Enter to run the script.
-Review the new Git history for errors.
+
 
 Push the corrected history to GitHub:
 
